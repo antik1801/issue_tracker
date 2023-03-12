@@ -11,5 +11,5 @@ https://willowy-mochi-37fa2b.netlify.app
 ```
 https://github.com/antik1801/issue_tracker
 ```
-<img src="./ss/1.PNG" style="height:350px; width: 100%">
-<img src="./ss/2.PNG" style="height:350px; width: 100%">
+<img src="./ss/1.PNG" style="height:350px; width: 70%">
+<img src="./ss/2.PNG" style="height:350px; width: 70%">
